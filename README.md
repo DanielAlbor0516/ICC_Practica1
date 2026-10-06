@@ -105,5 +105,6 @@ Andrea Lopez Lopez
 ingresa la fecha de nacimiento en formato dd/mm/aa
 
 14/04/92
+
 El RFC de Andrea Lopez Lopez es: LOLA920414
-Muy interesante!! Hablaremos de ello con m ́as detalle en la siguiente sesi ́on.
+
